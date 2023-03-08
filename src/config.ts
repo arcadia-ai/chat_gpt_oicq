@@ -13,9 +13,9 @@ export const config = {
 
     enable: true,
     key: '',
-    model: 'text-davinci-003',
+    model: 'gpt-3.5-turbo-0301',
     identity: [],
-    maxTokens: 256,
+    maxTokens: 2560,
     maxTrackCount: 1,
     temperature: 0.9,
     stop: ['Human', 'AI'],

@@ -47,7 +47,7 @@
   },
   "dependencies": {
     "chalk": "^5.2.0",
-    "chatgpt": "^3.3.1",
+    "chatgpt": "^5.0.8",
     "esbuild": "^0.16.10",
     "inquirer": "^9.1.4",
     "oicq": "^2.3.1",
